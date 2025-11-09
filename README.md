@@ -66,4 +66,6 @@ To become skilled in **full-stack development + AI automation**, enabling me to 
 
 ---
 
+This is still in developing process
+
 ⭐ *If you'd like to follow my journey or collaborate, feel free to connect!*
